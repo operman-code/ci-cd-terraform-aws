@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Test CI') {
+        stage('Check Terraform') {
             steps {
-                echo 'CI pipeline triggered successfully!'
+                sh 'terraform version'
             }
         }
     }
