@@ -1,4 +1,4 @@
-CI/CD Pipeline with Terraform, AWS & Jenkins
+CI/CD Pipeline with Terraform, AWS & Jenkins ok
 
 This repository demonstrates a full CI/CD pipeline using Jenkins, Terraform, and AWS, with automatic pipeline triggers from GitHub push events. The pipeline provisions AWS resources (e.g., EC2 instances) using Terraform and includes manual approval before applying changes.
 
