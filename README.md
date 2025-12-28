@@ -75,7 +75,7 @@ Event: Just the push event
 
 Secret: Optional (configure in Jenkins if used)
 
-Active: ✅
+Active: 
 
 Usage
 
